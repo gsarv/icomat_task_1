@@ -1,0 +1,7 @@
+name: occ_env_2
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.11
+  - pythonocc-core
+  - pip
