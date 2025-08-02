@@ -23,7 +23,7 @@ If an intersection exists, it:
 Dependencies can be installed via `conda`.  
 
 ```bash
-conda env create -f environment.yml
+conda env create -f env/environment.yml
 ```
 
 # Usage
